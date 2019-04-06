@@ -1,0 +1,3 @@
+[submodule "console-gui"]
+	path = console-gui
+	url = https://github.com/MrDoritos/console-gui
